@@ -1,0 +1,43 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: MapDemo - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\T430\AppData\Local\Temp\RSP6CED.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/MapDemo.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\с╒нд\Samples\MapDemo\MapDemoView.cpp"
+]
+Creating command line "cl.exe @C:\Users\T430\AppData\Local\Temp\RSP6CED.tmp" 
+Creating temporary file "C:\Users\T430\AppData\Local\Temp\RSP6CEE.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/MapDemoD.pdb" /debug /machine:I386 /out:"..\Bin/MapDemoD.exe" /pdbtype:sept 
+".\Debug\FOHyperLink.obj"
+".\Debug\FOPGDIPlusHelper.obj"
+".\Debug\FOPGDIPlusProxy.obj"
+".\Debug\MainFrm.obj"
+".\Debug\MapDemo.obj"
+".\Debug\MapDemoDoc.obj"
+".\Debug\MapDemoView.obj"
+".\Debug\MyExtDataModel.obj"
+".\Debug\SortListCtrl.obj"
+".\Debug\StdAfx.obj"
+".\Debug\TableBar.obj"
+".\Debug\MapDemo.res"
+]
+Creating command line "link.exe @C:\Users\T430\AppData\Local\Temp\RSP6CEE.tmp"
+<h3>Output Window</h3>
+Compiling...
+MapDemoView.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+MapDemoD.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
